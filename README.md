@@ -1,5 +1,7 @@
 ![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/DataX-logo.jpg)
 
+本项目在datax中增加了kafka writer，详细可以看kafkawriter 模块。
+
 
 # DataX
 
@@ -134,7 +136,7 @@ This software is free to use under the Apache License [Apache license](https://g
     7. 具有较强的问题分析和处理能力、比较强的动手能力，对技术有强烈追求者优先考虑；
     8. 对高并发、高稳定可用性、高性能、大数据处理有过实际项目及产品经验者优先考虑；
     9. 有大数据产品、云产品、中间件技术解决方案者优先考虑。
-````
+​````
 钉钉用户群：
 
 - DataX开源用户交流群
@@ -152,3 +154,5 @@ This software is free to use under the Apache License [Apache license](https://g
 - DataX开源用户交流群5
     - <img src="https://github.com/alibaba/DataX/blob/master/images/DataX%E5%BC%80%E6%BA%90%E7%94%A8%E6%88%B7%E4%BA%A4%E6%B5%81%E7%BE%A45.jpg" width="20%" height="20%">
 
+
+```
