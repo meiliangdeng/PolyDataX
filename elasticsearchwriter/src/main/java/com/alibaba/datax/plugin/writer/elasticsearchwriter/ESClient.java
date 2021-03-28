@@ -49,7 +49,7 @@ public class ESClient {
         JestClientFactory factory = new JestClientFactory();
         Builder httpClientConfig = new HttpClientConfig
                 .Builder(endpoint)
-                .setPreemptiveAuth(new HttpHost(endpoint))
+               /* .setPreemptiveAuth(new HttpHost(endpoint))*/
                 .multiThreaded(multiThread)
                 .connTimeout(30000)
                 .readTimeout(readTimeout)
